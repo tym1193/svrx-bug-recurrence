@@ -1,6 +1,6 @@
 # svrx-bug-recurrence
 
-Bug recurrence of [Server-X](https://github.com/svrxjs/svrx)'s livereload feature.**win10**
+Bug recurrence of [Server-X](https://github.com/svrxjs/svrx)'s livereload feature[**win10**].
 
 ## Requirement
 
